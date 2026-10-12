@@ -1,7 +1,7 @@
 """Measure RepoSage indexing, retrieval, and Gemini response timings.
 
 Examples:
-    python benchmark.py --pdf AI_Engineering_Building_Applications_-_Chip_Huyen.pdf
+    python benchmark.py --pdf book.pdf
     python benchmark.py --pdf book.pdf --question "What is RAG?"
 """
 
