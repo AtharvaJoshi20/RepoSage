@@ -1,0 +1,8 @@
+.env
+.reposage_chroma/
+.reposage_index.json
+.venv/
+__pycache__/
+.streamlit/
+chroma_db/
+*.py[cod]
