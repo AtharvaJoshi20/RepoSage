@@ -1,8 +1,9 @@
 .env
-.reposage_chroma/
-.reposage_index.json
 .venv/
 __pycache__/
 .streamlit/
-chroma_db/
-*.py[cod]
+.reposage_chroma/
+.reposage_benchmark/
+.reposage_index.json
+benchmark_metrics*.json
+*.pdf
